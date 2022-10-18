@@ -2,3 +2,8 @@ body{
   margin: 0px;
   text-align: center;
 }
+
+#header-div{
+  background-image: url("https://cdn.pixabay.com/photo/2018/05/14/16/54/alpine-3400788_960_720.jpg");
+  padding: 100px 30px 0px 0px;
+}
